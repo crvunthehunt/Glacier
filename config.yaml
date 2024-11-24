@@ -3,6 +3,6 @@ Http:
 Network: "testnet"
 RemoteBootstrap: "https://glacier-labs.github.io/node-bootstrap/"
 Keystore:
-  PrivateKey: "99eeb55c9c856cf05961716cc39fa2a558817e959041cbd20e02b898b6ed26db"
+  PrivateKey: "your key"
 TEE:
   IpfsURL: "https://greenfield.onebitdev.com/ipfs/"
